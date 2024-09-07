@@ -5,16 +5,76 @@
     "icon": "https://icons.duckduckgo.com/ip3/anlayana.com.ico",
     "slug": "anlayana",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 89,
     "timeDay": 89,
     "timeWeek": 89,
     "timeMonth": 89,
     "timeYear": 89,
+    "dailyMinutesDown": {
+      "2024-09-07": 5
+    }
+  },
+  {
+    "name": "Mido",
+    "url": "https://mido.anlayana.com",
+    "icon": "https://icons.duckduckgo.com/ip3/mido.anlayana.com.ico",
+    "slug": "mido",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 82,
+    "timeDay": 82,
+    "timeWeek": 82,
+    "timeMonth": 82,
+    "timeYear": 82,
+    "dailyMinutesDown": {
+      "2024-09-07": 0
+    }
+  },
+  {
+    "name": "Syan",
+    "url": "https://syan.anlayana.com",
+    "icon": "https://icons.duckduckgo.com/ip3/syan.anlayana.com.ico",
+    "slug": "syan",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 81,
+    "timeDay": 81,
+    "timeWeek": 81,
+    "timeMonth": 81,
+    "timeYear": 81,
+    "dailyMinutesDown": {
+      "2024-09-07": 0
+    }
+  },
+  {
+    "name": "Cards",
+    "url": "https://cards.anlayana.com",
+    "icon": "https://icons.duckduckgo.com/ip3/cards.anlayana.com.ico",
+    "slug": "cards",
+    "status": "down",
+    "uptime": "7.26%",
+    "uptimeDay": "7.26%",
+    "uptimeWeek": "7.26%",
+    "uptimeMonth": "7.26%",
+    "uptimeYear": "7.26%",
+    "time": 156,
+    "timeDay": 156,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {
       "2024-09-07": 0
     }
