@@ -4,6 +4,12 @@ repo: anlayana-uptime
 sites:
   - name: Anlayana
     url: https://anlayana.com
+  - name: Mido
+    url: https://mido.anlayana.com
+  - name: Syan
+    url: https://syan.anlayana.com    
+  - name: Cards
+    url: https://cards.anlayana.com  
 
 status-website:
   cname: uptime.anlayana.com
